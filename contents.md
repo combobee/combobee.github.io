@@ -25,37 +25,37 @@ title: Оглавление
 
 [Введение в строгое голосоведение.](speciesIntro.html)
 
-### Strict two-voice composition (species counterpoint)
+### Строгая двухголосная композиция (вид контрапункта)
 
-[Composing a cantus firmus.](cantusFirmus.html)   
-[Composing a first-species counterpoint.](firstSpecies.html)   
-[Composing a second-species counterpoint.](secondSpecies.html)   
-[Composing a third-species counterpoint.](thirdSpecies.html)   
-[Composing a fourth-species counterpoint.](fourthSpecies.html)
+[Композиция Cantus Firmus.](cantusFirmus.html)   
+[Композиция первого вида контрапункта.](firstSpecies.html)   
+[Композиция второго вида контрапункта.](secondSpecies.html)   
+[Композиция третьего вида контрапункта.](thirdSpecies.html)   
+[Композиция четвёртого вида контрапункта.](fourthSpecies.html)
 
-### Strict four-voice composition
+### Строгая четырёхголосная композиция
 
-[Introduction to thoroughbass.](thoroughbassFigures.html)   
-[A brief history of _basso continuo_.](bassoContinuo-history.html)   
-[Generating Roman numerals from a figured bass line.](RNfromFB.html)   
-[Composing in _basso-continuo_ style.](bassoContinuo.html)   
-[Style and tendency.](tendency.html)   
-[Tendency tones and functional harmonic dissonances.](tendencyTonesFunctionalDissonances.html)   
-[Realizing a figured bass in strict basso continuo style (video).](TBDemo.html)
+[Введение в генерал-бас.](thoroughbassFigures.html)   
+[Краткая история _basso continuo_.](bassoContinuo-history.html)   
+[Генерация римских цифр из фигурной басовой линии.](RNfromFB.html)   
+[Композиция в стиле _basso-continuo_.](bassoContinuo.html)   
+[Стиль и тенденции.](tendency.html)   
+[Тенденции тонов и функциональных гармонических диссонансов.](tendencyTonesFunctionalDissonances.html)   
+[Реализация фигурного баса в строгом стиле basso continuo (видео).](TBDemo.html)
 
-[Melodic keyboard style voice-leading.](melodicKeyboardStyle.html)   
-[Melodic keyboard-style voice-leading schemata.](KBVLschemata.html)   
+[Melodic keyboard style голосоведение.](melodicKeyboardStyle.html)   
+[Melodic keyboard-style голосоведение schemata.](KBVLschemata.html)   
 [Realizing a figured bass line in melodic keyboard style (video).](melodicKB.html)   
 [Realizing an unfigured bass line (video).](unfiguredBass.html)
 
-[Embellishing tones.](embellishingTones.html)
+[Приукрашивающие тона.](embellishingTones.html)
 
-## Harmony
+## Гармония
 
-[Introduction to musical functions.](functions.html)   
-[Harmonic functions.](harmonicFunctions.html)   
-[Harmonic syntax - the idealized phrase.](harmonicSyntax1.html)   
-[Harmonic syntax - prolongation.](harmonicSyntax2.html)   
+[Введение в музыкальные функции.](functions.html)   
+[Гармонические функции.](harmonicFunctions.html)   
+[Гармонический синтаксис - идеализированная фраза.](harmonicSyntax1.html)   
+[Гармонический синтаксис - пролонгация.](harmonicSyntax2.html)   
 [Performing a harmonic analysis.](harmonicAnalysis.html)
 
 [Classical cadence types.](cadenceTypes.html)   
@@ -69,7 +69,7 @@ title: Оглавление
 [Lead-sheet and figured-bass symbols.]({{ site.url }}/Graphics/Handouts/LSandFBsymbols.pdf)   
 [Harmonies (Roman numerals and functional bass) by bass scale degree.]({{ site.url }}/Graphics/Handouts/HarmoniesByBassScaleDegree.pdf)
 
-## Form
+## Форма
 
 ### Thematic Structure in the Classical Style
 
@@ -91,7 +91,7 @@ title: Оглавление
 [External Expansions.](externalExpansions.html)   
 [Internal Expansions.](internalExpansions.html)
 
-### Sonata Form
+### Сонатная форма
 
 [Introduction to Sonata Theory.](SonataTheory-intro.html)
 
