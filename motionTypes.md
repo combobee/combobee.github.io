@@ -1,28 +1,28 @@
 ---
 layout: post
-title: Types of contrapuntal motion
+title: Типы контрапунтного движения
 ---
 
 
-There are four types of contrapuntal motion between two musical lines. Differentiating these four types of motion is essential to generating good voice-leading, both strict and free.
+Существует четыре типа контрапунктного движения между двумя музыкальными линиями. Различия этих четырех типов движения имеет важное значение для создания хорошего голосоведения, как строгого, так и свободного.
 
-In *parallel motion*, two voices move in the same direction by the same generic interval. For example, the following two voices both move up by a step. Note also that both dyads form the same generic interval (sixth). This will always be true when two voices move in parallel motion.
+В *парралельном движении*, два голоса движутся в одном направлении на одном и том же интервале. Например, следующие два голоса поднимаются на шаг вверх. Важно отметит что обе диады образуют тот же самый общий интервал (шестой). Это всегда верно при парралельном движении голосов.
 
-![Example of parallel motion: C–A to D–B.][parallel]
+![Пример параллельного движения: C–A to D–B.][parallel]
 
-In *similar motion*, also called *direct motion*, two voices move in the same direction, but by different intervals. For example, the following two voices both move down, but the upper voice moves by step while the lower voice moves by leap. Note also that the two dyads are different generic intervals. This will always be the case with similar or direct motion.
+В *аналогичном движении*, также называемым *прямым движением*, два голоса движутся в одном направлении, но с разными интервалами. К примеру, оба следующих голоса перемещаются вниз, но верхний голос перемещается шаг за шагом, в то время как нижний голос перемещается скачком. Отметим также, что две диады имеют разные общие интервалы. Это будет всегда в случае с аналогичным или прямым движением.
 
-![Example of similar motion: C–G to A–F.][similar]
+![Пример прямого движения: C–G to A–F.][similar]
 
-In *contrary motion*, two voices move in opposite directions—one up, the other down.
+В *противоположном  движеним*, два голоса движутся в противоположных направлениях - один вверх, другой вниз.
 
-![Example of contrary motion: C–E to A–F.][contrary]
+![Пример противоположного движения: C–E to A–F.][contrary]
 
-In *oblique motion*, one voice is stationary, while the other voice moves (in either direction). The stationary tone may or may not be rearticulated.
+В *косвенном движении*, один голос неподвижен, а другой движется(в любом направлении). Неподвижный тон может как быть как перестроен, так и остаться неподвижным.
 
-![Example of oblique motion: C–G to B–G.][oblique1]  
-or  
-![Example of oblique motion: C–G to B–G.][oblique2]
+![Пример косвенного движения: C–G to B–G.][oblique1]  
+или
+![Пример косвенного движения: C–G to B–G.][oblique2]
 
 
 
