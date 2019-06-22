@@ -80,7 +80,7 @@ The second way to label a harmonic progression is what Quinn calls *functional b
 
 [![]({{ site.url }}/Graphics/harmony/FunctionalBassFunctions.png)]({{ site.url }}/Graphics/harmony/FunctionalBassFunctions.png)
 
-Quinn also advocates using what I call *interpreted functional bass*. This nomenclature uses the same symbols, but uses parentheses to denote [*contrapuntal prolongation*](http://openmusictheory.com/harmonicSyntax2.html) and lower-case postscripts to explain the contrapuntal role of the embellishing chord (p for passing, n for neighbor, i for incomplete neighbor, d for divider, e for embellishing — all of these refer to the voice-leading pattern in the bass voice). Following is an example of interpreted functional bass.
+Quinn also advocates using what I call *interpreted functional bass*. This nomenclature uses the same symbols, but uses parentheses to denote [*contrapuntal prolongation*](http://combobee.github.io/harmonicSyntax2.html) and lower-case postscripts to explain the contrapuntal role of the embellishing chord (p for passing, n for neighbor, i for incomplete neighbor, d for divider, e for embellishing — all of these refer to the voice-leading pattern in the bass voice). Following is an example of interpreted functional bass.
 
 [![]({{ site.url }}/Graphics/harmony/InterpretedFunctionalBass.png)]({{ site.url }}/Graphics/harmony/InterpretedFunctionalBass.png)
 

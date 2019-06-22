@@ -7,7 +7,7 @@ The *grammar* of a sonata — the basic harmonic and thematic story that anchors
 
 Larger sonata movements tend to have one or more framing modules: either an *introduction*, a *coda*, or both. These help to "frame" the big picture, and to create a coherent musical narrative — often an arc that builds in tension to a climax and resolves to a point of relative rest by the end of the movement.
 
-Some common characteristics of these modules are provided below, many of which are shared with introductions and codas in [pop/rock music](http://openmusictheory.com/popRockForm.html).
+Some common characteristics of these modules are provided below, many of which are shared with introductions and codas in [pop/rock music](http://combobee.github.io/popRockForm.html).
 
 ## Introduction
 
