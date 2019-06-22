@@ -1,32 +1,37 @@
 ---
 layout: post
-title: Introduction to strict voice-leading
+title: Введение в строгое голосоведение
 ---
 
-The study of the theory of Western music involves three main components: voice-leading, harmony, and form. *Voice-leading* deals with the relationship of two or more musical lines (or melodies) combined into a single musical idea. *Harmony* addresses the rules or norms for combining chords into successions. *Form* addresses the rules or norms for the combination of phrases and other small musical units into larger units—including whole movements and works. 
+Изучение теории западной музыки включает в себя три основных компонента: **голосоведение**, **гармонию**, и **форму**.
+* *Голосоведение* имеет дело с отношениями двух и более музыкальных линий(или мелодий) объединённых в единую музыкальную идею.
+* *Гармония* обращается к правилам или нормам для объединения аккордов в последовательности.
+* *Форма* обращается к правилам или нормам для комбинации из фраз и других маленьких музыкальных единиц в большие  блоки, включающие целые части и произведения.
 
-We will address all three of these facets of musical theory. However, of the three, voice-leading is the most fundamental. Thus, we begin our study of music theory, then, with *strict voice-leading*, or *counterpoint*. 
+Мы рассмотрим все три аспекта музыкальной теории. Тем не менее, из этих трёх, *голосоведение* является наиболее фундаментальным. Таким образом, мы начинаем наше изучение с основ теории музыки, и далее, переходим к *строгому голосоведению*, или *контрапункту*.
 
-Twentieth-century musician and theorist, Heinrich Schenker, wrote:
+Музыкант и теоретик XX века Генрих Шенкер писал:
 
-> The purpose of counterpoint, rather than to teach a specific style of composition, is to lead the ear of the serious student of music for the first time into the infinite world of fundamental musical problems (*Kontrapunkt*, p. 10).
+> Цель контрапункта не научить определённому стилю композиции, а в том, чтобы впервые привести серьёзного ученика музыки в бесконечный мир фундаментальных музыкальных проблем (*Kontrapunkt*, стр. 10).
 
-Following this line of thinking, our early voice-leading exercises will not be in a specific style (classical, baroque, romantic, pop/rock, etc.). Instead, these exercises will eliminate important musical elements like *harmony*, *orchestration*, *melodic motives*, *formal structure*, and even many elements of *rhythm*, in order to focus very specifically on a small set of musical problems. These other elements of music will be introduced one-by-one as we progress through the course (and into future courses).
+Следуя этой линии мышления, наши ранние упражнения по голосоведению не будут соответствовать определенному стилю  (классический, барокко, романтизм, поп/рок, и т.д.). Вместо этого, эти упражнения будут исключать важные музыкальные элементы, такие как *гармония*, *оркестровка*, *мелодичные мотивы*, *формальные структуры*, и даже многие элементы *ритма*, чтобы очень конкретно сосредоточиться на небольшом наборе музыкальных проблем. Эти другие элементы музыки будут вводиться один за другим по мере прохождения курса (и в будущих курсах).
 
-The "fundamental musical problems" we will address in the study of counterpoint center around the way in which some basic principles of auditory perception and cognition (how the brain perceives and conceptualizes sound) play out in Western musical structure. For example, our brains tend to assume that sounds similar in pitch or timbre come from the same source. Our brains also listen for patterns, and when a new sound continues or completes a previously heard pattern, it assumes that the new sound belongs together with those others. On the other hand, the breaking of these regularities in the sonic environment can signal danger, or at the very least the need for heightened attention to be applied to the sonic "culprit." Identifying irregularities in the sonic environment and boosting attention and adrenaline when one is found have been absolutely essential to the survival of the human species. These abilities are also what allows music to have the emotional effect that it does on so many people. Whether or not a composer or songwriter is aware of the science and psychology of hearing, a masterful composer mediates and plays with these basic concepts.
+«Фундаментальные музыкальные проблемы», которые мы рассмотрим при изучении контрапункта, сконцентрированы вокруг того, как некоторые базовые принципы природы человеческого слухового восприятия(как мозг воспринимает и концептуализирует звук) работают в западной музыкальной структуре.
+Например, наш мозг склонен считать, что звуки, похожие по высоте или тембру, исходят из одного и того же источника. Наш мозг также прислушивается к шаблонам, и когда новый звук продолжает или завершает ранее услышанный шаблон, он предполагает, что новый звук имеет общее с другими звуками.
+ С другой стороны, нарушение этих закономерностей в звуковой среде может сигнализировать об опасности или, по крайней мере, о необходимости повышенного внимания к «виновнику» звука. Выявление опасностей в звуковой среде,повышение внимания и адреналина, необходимы для выживания. Эти способности также позволяют музыке оказывать эмоциональное воздействие на многих людей. Независимо от того, знает ли композитор или автор песен о науке и психологии слуха, профессиональный композитор выступает в роли посредника и играет с этими основными понятиями.
 
-"Mediates" and "plays" are important ideas here. Music that simply makes it easy for the brain to parse and process sound is boring—it calls for no heightened attention, it doesn't increase our heart rate, make the hair on the back of our neck stand up, or give us a little jolt of dopamine. On the other hand, music that constantly activates our innate sense of danger is hardly pleasant for most listeners. Thus, fundamental to most of the music we will study is the dance between tension and relaxation, motion and rest.
+"Посредники" и "Игры" здесь являются важными идеями. Музыка, которая просто помогает мозгу анализировать и обрабатывать звук - скучна, она не требует повышенного внимания, она не увеличивает частоту сердечных сокращений, не заставляет волосы стоять дыбом на затылке и не даёт нам толчок дофамина. С другой стороны, музыка, которая постоянно активирует наше врожденное чувство опасности, вряд ли нравится большинству слушателей.  Таким образом, основополагающим для большей части музыки, которую мы будем изучать, является танец между напряжением и расслаблением, движением и отдыхом.
 
-The study of counterpoint will help us to engage several important musical "problems" in a limited context, so that we can master them compositionally and understand them analytically. Those problems arise as we seek to bring the following traits together:
+Изучение контрапункта поможет нам затронуть несколько важных музыкальных «проблем» в ограниченном контексте, чтобы мы могли справиться с ними композиционно и понять их аналитически. Эти проблемы возникают, когда мы стремимся объединить следующие черты:
 
-- smoothness  
-- independence and integrity or melodic lines  
-- tonal fusion (the preference for simultaneous notes to form a consonant unity)  
-- variety  
-- motion (towards a goal)
+- плавность  
+- независимость или целостность мелодической линии
+- тональное слияние (предпочтение для восприятия одновременно звучащих звуков для формирования согласного единства)  
+- разнообразие  
+- движение (к цели)
 
-These traits are based in human perception and cognition, but they are often in conflict in specific musical moments, and need to be balanced over the course of larger passages and complete works. Counterpoint will help us begin to practice mediating these conflicts.
+Эти черты основаны на человеческом познании и восприятии, но они часто конфликтуют в определенных музыкальных моментах и должны быть уравновешены в течение больших пассажей и полных произведений. Контрапункт поможет нам начать практиктику связывать эти конфликты.
 
-Also, note Schenker's expression "lead the ear." Counterpoint is not a pencil-and-paper (or lecture-and-homework) study. Rather, the exercises are mini- (micro-? nano-?) compositions that must be *performed*—with voice and/or keyboard, often with a partner—so that the ear, the fingers, the throat, and ultimately the mind can internalize the sound, sight, and feel of good (and bad) musical lines, and good (and bad) combinations of musical lines.
+Также обратите внимание на выражение Шенкера «возглавить ухо». Контрапункт - это не исследование карандашом и бумагой (или домашняя работа). Скорее, упражнения представляют собой мини- (микро-, нано-) композиции, которые должны быть *выполнены* голосом и / или клавиатурой, часто с партнером - так, чтобы ухо, пальцы, горло и, в конечном счете, ум усвоили звук, видели и ощущали хорошие (и плохие) музыкальных линии, а также их комбинации.
 
-The specific method we will use is called *species counterpoint*—so called because the study progresses through stages, or species, where one or two new musical "problems" are introduced. This approach has existed in some form since the early seventeenth century. The specific method we will use is very close to that articulated by Johann Joseph Fux, in his *Gradus ad parnassum* (*Steps to Parnassus*, 1725). Master composers from the eighteenth to the twenty-first centuries have used this method, or some variation on it. While Fux proposed five species, moving from two-voice combinations up to six- and eight-voice combinations, we will focus on species one through four, in two voices only.
+Метод, который мы будем использовать, называется  *видовой контрапункт* — потому что изучение будет продвигаться через стадии, или разновидности, где будут представлены одна или две новые музыкальные проблемы. Этот подход в той или иной мере существует с начала XVII века. Конкретный метод, который мы будем использовать, очень близок к методу, сформулированному Иоганном Джозефом Фуксом в его  *Gradus ad parnassum* (*Шаги к Парнасу*, 1725). Мастера-композиторы XVIII-XXI веков использовали этот метод или некоторые его вариации. Хотя Фукс предложил пять видов, переходя от двухголосных комбинаций к шести- и восьмиголосным комбинациям, мы сосредоточимся на видах с первого по четвертый, только в два голоса.
