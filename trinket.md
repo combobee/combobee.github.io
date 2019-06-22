@@ -4,9 +4,9 @@ title: Using Trinket
 ---
 
 <iframe class="trinket" src="https://trinket.io/embed/music/a089e987ca" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
-*Error-detection exercise from [Composing a first-species counterpoint](http://combobee.github.io/firstSpecies.html).*
+*Error-detection exercise from [Composing a first-species counterpoint](https://combobee.github.io/firstSpecies.html).*
 
-[Trinket](http://trinket.io) is a new tool for interactive music notation on the web. It can be added to any website that supports iFrames, and there are several music trinkets embedded in Open Music Theory (with more on the way as the textbook grows).
+[Trinket](https://trinket.io) is a new tool for interactive music notation on the web. It can be added to any website that supports iFrames, and there are several music trinkets embedded in Open Music Theory (with more on the way as the textbook grows).
 
 ## Notation guide
 

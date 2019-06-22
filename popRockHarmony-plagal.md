@@ -19,7 +19,7 @@ This kind of chord progression isn't limited to Soul and R&B, of course. The beg
 
 ### Double-plagal progression ###
 
-The "double-plagal" progression ([Walter Everett's term](http://www.mtosmt.org/issues/mto.04.10.4/mto.04.10.4.w_everett.html)) is an expansion of the plagal progression discussed above to include the "IV/IV" chord prior to the IV chord. This is perhaps more simply explained as bVII-IV-I (or simply VII-iv-I in minor). The most famous instance of the double-plagal progression is likely the coda from "Hey Jude" by The Beatles, performed here by Wilson Pickett:
+The "double-plagal" progression ([Walter Everett's term](https://www.mtosmt.org/issues/mto.04.10.4/mto.04.10.4.w_everett.html)) is an expansion of the plagal progression discussed above to include the "IV/IV" chord prior to the IV chord. This is perhaps more simply explained as bVII-IV-I (or simply VII-iv-I in minor). The most famous instance of the double-plagal progression is likely the coda from "Hey Jude" by The Beatles, performed here by Wilson Pickett:
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:1MMp1H2Kib2BCDtdL5nL63" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 

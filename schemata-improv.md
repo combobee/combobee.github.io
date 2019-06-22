@@ -8,7 +8,7 @@ The [classical sentence](sentence.html) lends itself well to *galant* schemata. 
 Take the opening theme from Haydn's Piano Sonata in G Major, Hob. XVI:27, third movement.
 
 [![]({{ site.url }}/Graphics/HaydnXVI27.png)]({{ site.url }}/Graphics/HaydnXVI27.png)  
-*Public domain score excerpted from [IMSLP](http://www.imslp.org). Click image to enlarge.*
+*Public domain score excerpted from [IMSLP](https://www.imslp.org). Click image to enlarge.*
 
 Bars 1–4 (the presentation phrase) give an embellishment of the Meyer schema. Note the two-bar basic idea that is repeated in mm. 3–4, transposed up a step (for the most part).
 
@@ -28,8 +28,8 @@ In those ways, this theme is a model example for our simple improvisations: high
 
 Following is a video that goes into more detail about tricky situations and specific techniques that may come up when using these schemata to improvise a sentence. This video focuses on the presentation phrase, using schemata like the Meyer or the Jupiter.
 
-<iframe src="http://player.vimeo.com/video/109188050" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br/>
-<a href="http://vimeo.com/109188050">Improvising a presentation phrase</a> on <a href="https://vimeo.com">Vimeo</a>.
+<iframe src="https://player.vimeo.com/video/109188050" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br/>
+<a href="https://vimeo.com/109188050">Improvising a presentation phrase</a> on <a href="https://vimeo.com">Vimeo</a>.
 
 # Putting it together
 

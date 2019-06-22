@@ -256,4 +256,4 @@ This is a common approach to a half cadence, especially at the end of a sonata m
 
 (The Compound HC can be approached by any **S** chord, or even the end of the tonic prolongational zone.)
 
-There are, of course, more cadence patterns than these, but these are the most straightforward for framing an improvisation, or a simple model composition. See [Classical cadence types](http://combobee.github.io/cadenceTypes.html) for more details about standard cadential patterns.
+There are, of course, more cadence patterns than these, but these are the most straightforward for framing an improvisation, or a simple model composition. See [Classical cadence types](https://combobee.github.io/cadenceTypes.html) for more details about standard cadential patterns.

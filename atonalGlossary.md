@@ -29,13 +29,13 @@ The ordered pitch-class interval is also the modulo12 version of the ordered pit
 
 For help finding the prime form of a set, Jay Tomlin's [set theory calculator][calc] can be helpful. The following video demonstrates how to use it.
 
-<iframe src="http://player.vimeo.com/video/63210462" width="500" height="375" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/63210462">SetTheoryCalculator</a> from <a href="http://vimeo.com/user11692346">Kris Shaffer</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/63210462" width="500" height="375" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="https://vimeo.com/63210462">SetTheoryCalculator</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 **simultaneity** – Any collection of more than one pitch (class) that sound at the same time. This includes dyads/intervals, chords, clusters, and "salami slices" of contrapuntal textures.
 
 **unordered pitch-class interval** – A regular *simple* chromatic interval: the number of half steps between two pitches. Compound intervals (larger than an octave) are typically reduced to their corresponding simple interval. They are labeled with a lower-case **i**: **i4** is a major third, for example.
 
 
-[calc]: http://www.jaytomlin.com/music/settheory/
+[calc]: https://www.jaytomlin.com/music/settheory/
 [clock]: {{ site.url }}/Graphics/postTonal/clockFace.png
 [Cmajor]: {{ site.url }}/Graphics/postTonal/clockFace-diatonic.png

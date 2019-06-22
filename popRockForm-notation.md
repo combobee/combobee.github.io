@@ -29,5 +29,5 @@ Subscript numerals are attached to capital letters when there are two or more mo
 
 [*Back to pop/rock form overview.*](popRockForm.html)
 
-[VAT]: http://variations.sourceforge.net/vat/
+[VAT]: https://variations.sourceforge.net/vat/
 

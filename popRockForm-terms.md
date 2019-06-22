@@ -39,7 +39,7 @@ One man to overthrow.
 
 ### Other structures
 
-For more poetic structures and terms, see Vanier College's resource, [Poetry's Structure and Form](http://www.vaniercollege.qc.ca/tlc//tipsheets/reading-and-analyzing/poem-form-and-structure.pdf).
+For more poetic structures and terms, see Vanier College's resource, [Poetry's Structure and Form](https://www.vaniercollege.qc.ca/tlc//tipsheets/reading-and-analyzing/poem-form-and-structure.pdf).
 
 
 ## Descriptors & rhetorical devices

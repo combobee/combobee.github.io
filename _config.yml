@@ -2,8 +2,8 @@ title:            Open Music Theory
 tagline:          Hybrid Pedagogy Publishing
 description:      "an open, interactive, online textbook for college music theory"
 #Comment out url when working locally to resolve base urls correctly
-url: http://combobee.github.io
-baseurl: http://combobee.github.io
+url: https://combobee.github.io
+baseurl: https://combobee.github.io
 
 
 # Owner/author information
@@ -35,10 +35,10 @@ links:
     url: "https://twitter.com/search?f=realtime&q=%23OpenMusicTheory"
     external: true
   - title: Hybrid Pedagogy Publishing
-    url: "http://www.hybridpedagogy.org/#publishing"
+    url: "https://www.hybridpedagogy.org/#publishing"
     external: true
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
 pygments:    true

@@ -56,9 +56,9 @@ The counterpoint will end with a dissonant suspension. The penultimate bar will 
 
 In the following videos, I illustrate the process of composing a fourth-species counterpoint above and below a cantus firmus. This video provides new information about the compositional process, as well as concrete examples of the above rules and principles.
 
-<iframe src="http://player.vimeo.com/video/57389373" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/57389373">Composing a fourth-species counterpoint above a cantus firmus</a> from <a href="http://vimeo.com/user11692346">Kris Shaffer</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/57389373" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="https://vimeo.com/57389373">Composing a fourth-species counterpoint above a cantus firmus</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-<iframe src="http://player.vimeo.com/video/58488043" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/58488043">Composing a fourth-species counterpoint below the cantus firmus</a> from <a href="http://vimeo.com/user11692346">Kris Shaffer</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/58488043" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="https://vimeo.com/58488043">Composing a fourth-species counterpoint below the cantus firmus</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## Exercise
 
