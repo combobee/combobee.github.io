@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Composing a cantus firmus
+title: Композиция cantus firmus
 ---
 
 Exercises in strict voice-leading, or species counterpoint, begin with a single, well formed musical line called the *cantus firmus* (fixed voice, or fixed melody; pl. *cantus firmi*). *Cantus firmus* composition gives us the opportunity to engage the following fundamental musical traits:
@@ -45,7 +45,7 @@ The characteristics listed above are fairly detailed, and some of them are speci
 - **melodic regression** – the tendency for melodic notes in extreme registers to progress back towards the middle. An expression of motion towards a position of rest (with non-extreme notes representing "rest"). Also an expression simply of the statistical distribution of notes in a melody: the higher a note is, the more notes there are below it for a composer to choose from, and the less notes there are above it.  
 - **melodic arch** – the tendency for melodies to ascend in the first half of a phrase, reach a climax, and descend in the second half. An expression of goal-orientation and the rest–motion–rest pattern. Also, a combination of the above rules in the context of a musical phrase.
 
-## Practice exercise 
+## Practice exercise
 
 Before composing a *cantus firmus* from scratch, try building a well formed *cantus* around the following skeleton. Length, starting pitch, penultimate pitch, ending pitch, and climax have been provided. Create a smooth, consonant melodic line that exemplifies the characteristics listed above—both the specific characteristics of strict species *cantus firmi* and the general characteristics of tonal melodies. Click the staff to hear the melody. Be sure to listen each time you make a change.
 
