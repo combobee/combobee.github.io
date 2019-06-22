@@ -3,27 +3,27 @@ layout: post
 title: Table of Contents
 ---
 
-## Introduction
+## Введение
 
-[Introduction to this “textbook” (for instructors & scholars).](about.html)
+[Введение к данному учебнику для преподавателей и учёных.](about.html)
 
-## Fundamentals
+## Основы
 
-[Basic notation.](basicNotation.html)   
-[Meter.](meter.html)   
-[Protonotation.](protonotation.html)   
-[Rhythmic values.](rhythmicValues.html)   
-[Beams and borrowed divisions.](beams.html)   
-[Pitches.](pitches.html)   
-[Scales and scale degrees.](scales.html)   
-[Key signatures.](keySignatures.html)   
-[Intervals.](intervals.html)   
-[Triads and seventh chords.](triads.html)   
-[Types of motion.](motionTypes.html)
+[Базовая нотация.](basicNotation.html)   
+[Размер.](meter.html)   
+[Протонотация.](protonotation.html)   
+[Ритмические величины.](rhythmicValues.html)   
+[Группировка и заимствованные деления.](beams.html)   
+[Высоты.](pitches.html)   
+[Звукоряд и ступени звукоряда.](scales.html)   
+[Ключевые знаки.](keySignatures.html)   
+[Интервалы.](intervals.html)   
+[Трезвучия и септаккорды](triads.html)   
+[Типы движения.](motionTypes.html)
 
-## Voice-leading and model composition
+## Голосоведение и модель композиции
 
-[Introduction to strict voice-leading.](speciesIntro.html)
+[Введение в строгое голосоведение.](speciesIntro.html)
 
 ### Strict two-voice composition (species counterpoint)
 
@@ -93,8 +93,8 @@ title: Table of Contents
 
 ### Sonata Form
 
-[Introduction to Sonata Theory.](SonataTheory-intro.html) 
-  
+[Introduction to Sonata Theory.](SonataTheory-intro.html)
+
 [Sonata form: exposition types.](SonataTheory-exposition.html)   
 [Structural Points of Arrival.](sonataStructuralPointsOfArrival.html)   
 [Thematic Modules.](sonataThematicModules.html)   
