@@ -1,5 +1,6 @@
 Open Music Theory
 =================
-
-A growing, online "textbook" for music theory and aural skills. Please visit
-the official site at [combobee.github.io](https://www.combobee.github.io).
+Растущий онлайн "учебник" по теории музыки и слуховым навыкам. Пожалуйста, посетите
+официальный сайт [openmusictheory.com](https://openmusictheory.com).
+=================
+Перевёл на русский Антон Войцеховский([СomboBee](https://github.com/combobee)).
