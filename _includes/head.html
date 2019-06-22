@@ -53,7 +53,10 @@
     <header class="site-header">
       <div class="wrap">
         <hgroup>
-          <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+          <h1>
+            <img src="{{ site.url }}/images/rus.png">
+            <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+          </h1>
         </hgroup>
         <a href="#nav" class="menu"><span class='icons'>☰</span></a>
         <nav role="navigation">
@@ -61,7 +64,7 @@
             <li>
               <a href="{{ site.baseurl }}/" title="{{ site.title }}">Home</a>
             </li>
-            
+
             {% for link in site.links %}
                 <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.baseurl }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
             {% endfor %}
