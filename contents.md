@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Table of Contents
+title: Оглавление
 ---
 
 ## Введение
