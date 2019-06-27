@@ -1,23 +1,23 @@
 ---
 layout: post
-title: Composing a first-species counterpoint
+title: Сочинение контрапункта первого вида
 ---
 
-Counterpoint is the mediation of two or more musical *lines* into a meaningful and pleasing *whole*. In first-species counterpoint, we not only write a smooth melody that has its own integrity of shape, variety, and goal-directed motion, but we also write a second melody that contains these traits. Further, and most importantly, we combine these melodies to create a whole texture that is smooth, exhibits variety and goal-oriented motion, and in which these melodies both maintain their independence and fuse together into consonant *simultaneities* (the general term for two or more notes sounding at the same time).
+Контрапункт это посредничество двух и более музыкальных *линий* в значительное и приятное *целое*. В контрапункте первого вида мы не только пишем гладкую мелодию, которая имеет свою целостность формы, разнообразия и целенаправленного движения, но мы также пишем вторую мелодию, которая содержит эти черты. Кроме того, и самое главное, мы объединяем эти мелодии, чтобы создать цельную текстуру, которая является гладкой, демонстрирует разнообразие и целенаправленное движение, и в которой эти мелодии одновременно сохраняют свою независимость и объединяются в согласную *одновременность* (общий термин для двух или более нот, звучащих одновременно).
 
-In first species counterpoint, we begin with a *cantus firmus* (new or existing) and compose a single new line—called the *counterpoint*—above or below the cantus firmus. That new line contains one note for every note in the cantus: both the cantus firmus and the counterpoint will be all whole notes. Thus, first species is sometimes called one-against-one or 1:1 counterpoint.
+В первом виде контрапункта мы начинаем с *cantus firmus* (новый или существующий) и составляем ещё одну - новую линию, которая называется *контрапункт* — вверху или под cantus firmus. Эта новая строка содержит одну замеипку для каждой ноты в cantus: оба cantus firmus и контрапункт будут все цельными нотами. Таким образом, первый вид контрапункта называют один против одного или 1:1.
 
-## The counterpoint line ##
+## Линия контрапункта ##
 
-In general, the counterpoint should follow the principles of [writing a good cantus firmus][CF]. There are some minor differences, to be discussed below, but generally a first-species counterpoint should consist of two cantus-firmus-quality lines.
+В общем, контрапункт должен следовать принципам [написания хорошего cantus firmus][CF]. Есть некоторые незначительные различия, которые будут обсуждены ниже, но, как правило, контрапункт первого вида должен состоять из двух cantus-firmus-quality линий.
 
-### Beginning a first-species counterpoint ###
+### Начало контрапункта первого вида ###
 
-To exemplify goal-oriented motion, the first-species exercise should begin and end with the most stable of sonorities: perfect consonances. Thus, when writing a counterpoint *above* a cantus firmus, the first note of the counterpoint should be *do* or *sol* (a P1, P5, or P8 above the cantus).
+В качестве примера целенаправленного движения, упражнение первого вида должно начинаться и заканчиваться наиболее устойчивым звучанием: совершенным созвучием. Таким образом при написании контрапункта *над* cantus firmus, первая нота должна быть *До* или *Соль* (на P1, P5, или P8 выше cantus'а).
 
-When writing a counterpoint *below* a cantus firmus, the first note of the counterpoint must always be *do* (P1 or P8 below the cantus). (Beginning on *sol* would create a dissonant fourth; beginning on *fa* would create a P5 but confuse listeners about the tonal context, since *fa–do* at the beginning of a piece is easily misheard as *do–sol*.)
+При написании контрапункта *ниже* cantus firmus, первая нота контрапункта всегда должна быть *До* (P1 или P8 ниже cantus'a). (Начало на *Соль* создаст диссонанс на кварте; Начало на *Фа* создаст P5 но запутает слушателей в тональном контексте, поскольку *Фа–До* в начале пьесы легко воспринимается как *До–Соль*.)
 
-### Ending a first-species counterpoint ###
+### Завершение контрапункта первого вида ###
 
 The final note of the counterpoint must always be *do* (P1 or P8 above/below the cantus).
 
@@ -44,7 +44,7 @@ In general, all harmonic *consonances* are allowed. However, unisons should only
 
 *Never, ever, ever* use two perfect consonances of the same size in a row: **P5–P5** or **P8–P8**. This includes both simple and compound intervals. For example, **P5–P12** is considered the same as **P5–P5**. (Two different perfect consonances in a row, such as **P8–P5**, is allowed, however, but try to follow every perfect consonance with an imperfect consonance if possible.) These "parallel fifths and octaves" significantly promote tonal fusion over melodic independence at the same time that the consecutive stable sonorities arrest both the variety and the motion of the exercise. Thus, they are far from ideal, and to be avoided in species counterpoint.
 
-Vary the types of motion between successive intervals (parallel, similar, contrary, oblique). Try to use all types of motion (except, perhaps, oblique motion), but prefer contrary motion where possible. It is best for preserving the independence of the lines, in addition to variety. 
+Vary the types of motion between successive intervals (parallel, similar, contrary, oblique). Try to use all types of motion (except, perhaps, oblique motion), but prefer contrary motion where possible. It is best for preserving the independence of the lines, in addition to variety.
 
 Because similar and parallel motion diminish variety and melodic independence, their use should be mediated by other factors:
 
