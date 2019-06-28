@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Composing a second-species counterpoint
+title: Составление контрапункта второго вида
 ---
 
-In second-species counterpoint, the counterpoint line moves in half notes against a cantus firmus in whole notes. This 2:1 rhythmic ratio leads to two new "fundamental musical problems"—one metric and one harmonic: the differentiation between *strong beats* and *weak beats*, and the introduction of the *passing tone* dissonance. 
+Во втором виде контрапункта, контрапунктическая линия движется половинными нотами против целых нот cantus firmus. Это 2:1 ритмичное соотноение приводит к двум новым "фундаментальным музыкальным проблемам" — одной метрической и одной гармонической: различие между *сильной долей* и *слабой долей*, и и введение в диссонанс *проходящего тона*.
 
 <iframe src="https://trinket.io/embed/music/bd3da422f4" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
@@ -13,9 +13,9 @@ The introduction of harmonic dissonance into second species adds to the variety 
 
 ## The counterpoint line ##
 
-As in first species, the counterpoint line should be singable, have a good shape, with a single climax and primarily stepwise motion (with some small leaps and an occasional large leap for variety). However, because a first-species counterpoint had so few notes, in order to maintain smoothness in other aspects of the exercise, the melody frequently employed small leaps. In second species, the increase in notes and the added freedom involving the use of dissonance makes it easier to move by step without causing other musical problems. Thus, a second-species counterpoint is even *more dominated by stepwise motion* than in first species. 
+As in first species, the counterpoint line should be singable, have a good shape, with a single climax and primarily stepwise motion (with some small leaps and an occasional large leap for variety). However, because a first-species counterpoint had so few notes, in order to maintain smoothness in other aspects of the exercise, the melody frequently employed small leaps. In second species, the increase in notes and the added freedom involving the use of dissonance makes it easier to move by step without causing other musical problems. Thus, a second-species counterpoint is even *more dominated by stepwise motion* than in first species.
 
-If the counterpoint must leap, take advantage of the metrical arrangement to diminish the attention drawn to the leap: leap from strong beat to weak beat (within the bar) rather than from weak beat to strong beat (across the barline) when possible. 
+If the counterpoint must leap, take advantage of the metrical arrangement to diminish the attention drawn to the leap: leap from strong beat to weak beat (within the bar) rather than from weak beat to strong beat (across the barline) when possible.
 
 Also, because there are more notes in a second species line, there should usually be one or two *secondary climaxes*—notes lower than the overall climax that serve as "local" climaxes for portions of the line. This will help the integrity of the line, by ensuring it has a coherent shape and does not simply wander around.
 
@@ -37,7 +37,7 @@ The penultimate bar of the counterpoint can either be a *whole note* (making the
 
 *Because the inclusion of dissonance in a musical texture creates new musical problems that need to be addressed, second species introduces dissonance in a very limited way. This is not a musical necessity, and it's not the only way to address dissonance, but it helps by introducing a small number of new musical difficulties in each species.*
 
-Strong beats (downbeats) in second species are *always consonant*. As in first species, prefer imperfect consonances (thirds and sixths) to perfect consonances (fifths and octaves), and avoid unisons. 
+Strong beats (downbeats) in second species are *always consonant*. As in first species, prefer imperfect consonances (thirds and sixths) to perfect consonances (fifths and octaves), and avoid unisons.
 
 Because motion across bar lines (from weak beat to strong beat) involves the same kind of voice motion as first species (two voices moving simultaneously), follow the same principles as first species counterpoint. For instance, if a weak beat is a perfect fifth, the following downbeat must not also be a perfect fifth.
 
@@ -51,9 +51,9 @@ Likewise progressions from downbeat to downbeat must follow principles of first-
 
 ### Weak beats ###
 
-Since harmonic dissonances can appear on weak beats, a mixture of consonant and dissonant intervals on weak beats is the best way to promote variety. 
+Since harmonic dissonances can appear on weak beats, a mixture of consonant and dissonant intervals on weak beats is the best way to promote variety.
 
-Unisons were problematic in first species because they diminished the independence of the lines. However, when they occur on the weak beats of second species and are the result of otherwise smooth voice-leading, the rhythmic difference in line is sufficient to maintain that independence. Thus, unisons are permitted on weak beats when necessary to make good counterpoint between the lines. 
+Unisons were problematic in first species because they diminished the independence of the lines. However, when they occur on the weak beats of second species and are the result of otherwise smooth voice-leading, the rhythmic difference in line is sufficient to maintain that independence. Thus, unisons are permitted on weak beats when necessary to make good counterpoint between the lines.
 
 Any weak-beat dissonance must follow the pattern of the *dissonant passing tone*, explained below. Also explained below are a number of standard patterns for consonant weak beats. Chances are high that if your weak beats do not fit into one of the following patterns, there is a problem with the counterpoint, so use them as a guide both for composing the counterpoint, and for evaluating it.
 
@@ -65,7 +65,7 @@ Most of these are used as examples in the demonstration video at the bottom of t
 
 #### Dissonant weak beats ####
 
-*All dissonant weak beats in second species are dissonant passing tones*, so called because the counterpoint line passes from one consonant downbeat to another consonant downbeat by stepwise motion. The melodic interval from downbeat to downbeat in the counterpoint will always be a third, and the passing tone will come in the middle in order to fill that third with passing motion. 
+*All dissonant weak beats in second species are dissonant passing tones*, so called because the counterpoint line passes from one consonant downbeat to another consonant downbeat by stepwise motion. The melodic interval from downbeat to downbeat in the counterpoint will always be a third, and the passing tone will come in the middle in order to fill that third with passing motion.
 
 Since all dissonances in second species are passing tones, you will never leap into or out of a dissonant tone, nor will you change directions on a dissonant tone, nor will any dissonances occur on a downbeat.
 
