@@ -3,21 +3,21 @@ layout: post
 title: Harmonic functions
 ---
 
-If a musical function describes the role that a particular musical element plays in the creation of a larger musical unit, then *a harmonic function describes the role that a particular chord plays in the creating of a larger harmonic progression*. Each chord tends to occur in some musical situations more than others, to progress to some chords more than others. These tendencies work together to create meaningful harmonic progressions, which can in turn form the harmonic foundation for musical *phrases*, *themes*, and larger formal units.
+Если музыкальная функция описывает роль, которую конкретный музыкальный элемент играет в создании большей музыкальной единицы, то гармоническая функция описывает роль, которую играет определенный аккорд в создании большей гармонической прогрессии. Каждый аккорд имеет тенденцию появляться в одних музыкальных ситуациях чаще, чем другие, и переходить на одни аккорды чаще других. Эти тенденции работают вместе, чтобы создать значимые гармонические прогрессии, которые, в свою очередь, могут сформировать гармоническую основу для музыкальных фраз, тем и более крупных формальных единиц.
 
-Generally speaking, the function of a chord concerns the notes that belong to it (its *internal characteristics*), the chords that tend to precede and follow it, and where it tends to be employed in the course of a musical phrase.
+Вообще говоря, функция аккорда касается нот, которые ему принадлежат (его *внутренние характеристики*), аккордов, которые имеют тенденцию предшествовать и следовать за ним, и где он имеет тенденцию использоваться в ходе музыкальной фразы.
 
-A theory of harmonic functions is based on three fundamental principles:
+Теория гармонических функций основана на трех фундаментальных принципах:
 
-- Chords are collections of scale degrees.  
-- Each scale degree has its own tendencies.  
-- The collective tendencies of a chord's scale degrees in combination is the chord's function.
+- Аккорды - это коллекции степеней.
+- У каждой степени шкалы есть свои тенденции.
+- Коллективные тенденции шкалы аккордов в комбинации - это функция аккорда.
 
-(Note the absence of *root* and *quality* from consideration here.)
+(Обратите внимание на отсутствие *основного тона* и *качество интервала* из рассмотрения здесь.)
 
-Because [tendency is style-specific](tendency.html), the same chord can have different functions in different musical styles. For instance, the kinds of functions we find in classical music are different from those we find in pop/rock songs from the Billboard charts. And though there are some general harmonic traits that are common to most eighteenth- and nineteenth-century Western composers (what we call the "common practice"), when we look in closer detail, we find some significant differences in the way Bach, Mozart, Brahms, and others compose their harmonic progressions.
+Поскольку [тенденция зависит от стиля] (tendency.html), один и тот же аккорд может иметь разные функции в разных музыкальных стилях. Например, виды функций, которые мы находим в классической музыке, отличаются от тех, которые мы находим в поп / рок песнях из чарта Billboard. И хотя есть некоторые общие гармонические черты, которые являются общими для большинства западных композиторов восемнадцатого и девятнадцатого веков (то, что мы называем «общей практикой»), при более детальном рассмотрении мы обнаруживаем некоторые существенные различия в том, как Бах и Моцарт Брамс и другие сочиняют свои гармоничные прогрессии.
 
-Our initial exploration of harmonic functions will engage the general "common practice" that is shared by most eighteenth- and nineteenth-century Western composers. As we explore specific genres, composers, and works within that common practice, we will have opportunity to explore the more nuanced differences between composers, as well as to move beyond common-practice Western art music to include other styles, such as pop/rock.
+В нашем первоначальном исследовании гармонических функций будет задействована общая «общая практика», которой придерживаются большинство западных композиторов XVIII и XIX веков. По мере изучения конкретных жанров, композиторов и произведений в рамках этой общей практики у нас будет возможность исследовать более тонкие различия между композиторами, а также выйти за рамки общепринятой западной арт-музыки и включить другие стили, такие как поп / рок ,
 
 ## The three common-practice harmonic functions
 

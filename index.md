@@ -13,3 +13,4 @@ title: Open Music Theory
 
 [**О книге**](about.html)  
 [**Оглавленеие**](contents.html)
+[**Оглавленеие 2**](contents_magic.html)
