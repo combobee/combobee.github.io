@@ -41,21 +41,16 @@ title: Оглавление
 [Гармонический синтаксис - пролонгация.](harmonicSyntax2.html)   
 [Performing a harmonic analysis.](harmonicAnalysis.html)
 
-[Classical cadence types.](cadenceTypes.html)   
-[Chromatically altered subdominant chords.](alteredSubdominants.html)   
-[Applied chords.](appliedChords.html)   
-[Modal mixture.](modalMixture.html)   
-[Modulation.](Modulation.html)
-
-#### Handouts and charts
-
-[Lead-sheet and figured-bass symbols.]({{ site.url }}/Graphics/Handouts/LSandFBsymbols.pdf)   
-[Harmonies (Roman numerals and functional bass) by bass scale degree.]({{ site.url }}/Graphics/Handouts/HarmoniesByBassScaleDegree.pdf)
+[Классические типы каденций.](cadenceTypes.html)   
+[Хроматически измененные субдоминантные аккорды.](alteredSubdominants.html)   
+[Прикладные аккорды.](appliedChords.html)   
+[Модальное смешение.](modalMixture.html)   
+[Модуляция.](Modulation.html)
 
 
-## Post-tonal music
+## Посттональная музыка
 
-### Basics
+### Основы
 
 [Pitch (class).](pitch(Class).html)   
 [Interval (class).](interval(Class).html)   
