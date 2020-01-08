@@ -26,10 +26,8 @@ title: Оглавление
 [Тенденции тонов и функциональных гармонических диссонансов.](tendencyTonesFunctionalDissonances.html)   
 [Реализация фигурного баса в строгом стиле basso continuo (видео).](TBDemo.html)
 
-[Melodic keyboard style голосоведение.](melodicKeyboardStyle.html)   
-[Melodic keyboard-style голосоведение schemata.](KBVLschemata.html)   
-[Realizing a figured bass line in melodic keyboard style (video).](melodicKB.html)   
-[Realizing an unfigured bass line (video).](unfiguredBass.html)
+[Мелодичный голос в стиле клавиатуры](melodicKeyboardStyle.html)   
+[Голосовые схемы в стиле клавиатуры](KBVLschemata.html)   
 
 [Приукрашивающие тона.](embellishingTones.html)
 
